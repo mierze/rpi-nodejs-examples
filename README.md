@@ -1,2 +1,5 @@
-# rpi-nodejs-led
-Node.js example for blinking LED attached to Raspberry Pi
+# rpi-nodejs-examples
+
+Node.js examples for Raspberry Pi:
+- Blinking LED
+- Push button
